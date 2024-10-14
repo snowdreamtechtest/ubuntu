@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:24.04
 
 # OCI annotations to image
 LABEL org.opencontainers.image.authors="Snowdream Tech" \
